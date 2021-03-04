@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, This is Mahfuz! 👋
+- I am a Computer Science PhD candiate with research in applied data science | bioinformatics
+- :computer: I am proficient in Python, R, Matlab, and C/C++
+- 📫 How to reach me: [Email](rahma118@umn.edu) | [Linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 
 <!--
 **mahfuz05062/mahfuz05062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
