@@ -2,7 +2,7 @@
 - I am a Computer Science PhD candiate with research in applied data science and bioinformatics
 - :computer: I am proficient in Python, R, Matlab, and C/C++
 - :computer: I have working knowledge in SQL and Java
-- 📫 How to reach me: [Email](rahma118@umn.edu) | [Linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
+- 📫 Email me: rahma118@umn.edu or connent in [Linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 
 <!--
 **mahfuz05062/mahfuz05062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
