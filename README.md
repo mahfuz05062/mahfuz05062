@@ -1,11 +1,12 @@
 ### Hi there, This is Mahfuz! 👋
-I am a Computer Science PhD candiate with research in applied data science and bioinformatics
+I am a Computer Science PhD candiate with research in applied data science / machine learning and bioinformatics
 - :computer: I am proficient in Python, R, Matlab, and C/C++ and familiarity in SQL and Java
+- :computer: I am skilled in the application of diverse machine learning approaches to data (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
 - 🌱 I am currently learning Spark and Docker
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
 - 😄 Pronouns: He/Him
 - 📫 Reach me by Email: rahma118@umn.edu or [Linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
-- ⚡ Fun fact: I am interested in Sports (:soccer: :football: :basketball: :tennis: :cricket_game: :badminton: :ice_skate:)
+- ⚡ Fun fact: I am a Sports (:soccer: :football: :basketball: :tennis: :cricket_game: :badminton: :ice_skate:)
 
 <!--
 **mahfuz05062/mahfuz05062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
