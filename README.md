@@ -1,7 +1,6 @@
 ### Hi there, This is Mahfuz! 👋
 I am a Computer Science PhD candiate with research in applied data science and bioinformatics
 - :computer: I am proficient in Python, R, Matlab, and C/C++ and familiarity in SQL and Java
-- :computer: I am proficient in Python, R, Matlab, and C/C++ and familiarity in SQL and Java
 - 🌱 I am currently learning Spark and Docker
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming
 - 📫 Reach me by Email: rahma118@umn.edu or [Linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
