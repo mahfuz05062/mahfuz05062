@@ -1,5 +1,5 @@
 ### Hi there, This is Mahfuz! 👋
-- I am a Computer Science PhD candiate with research in applied data science and bioinformatics
+I am a Computer Science PhD candiate with research in applied data science and bioinformatics
 - :computer: I am proficient in Python, R, Matlab, and C/C++ and familiarity in SQL and Java
 - :computer: I am proficient in Python, R, Matlab, and C/C++ and familiarity in SQL and Java
 - 🌱 I am currently learning Spark and Docker
