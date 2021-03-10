@@ -5,7 +5,7 @@ I am a Computer Science PhD candiate with research in applied data science / mac
 - 🌱 I am currently learning Spark and Docker
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
 - 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: sports fan (:soccer: :cricket_game: :football: :basketball: :tennis: :badminton: :ice_skate:)
 
 <!--
