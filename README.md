@@ -4,7 +4,7 @@ I am a Computer Science PhD candiate with research in applied data science / mac
 - :computer: I am skilled in the application of diverse machine learning approaches to data (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
 - 🌱 I am currently learning Spark and Docker
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
-- 📫 Reach me by email: rahma118@umn.edu or [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
+- 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Sports (:soccer: :football: :basketball: :tennis: :cricket_game: :badminton: :ice_skate:)
 
