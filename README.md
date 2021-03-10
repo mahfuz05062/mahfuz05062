@@ -5,7 +5,7 @@ I am a Computer Science PhD candiate with research in applied data science and b
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
 - 😄 Pronouns: He/Him
 - 📫 Reach me by Email: rahma118@umn.edu or [Linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
-- ⚡ Fun fact: I am interested in Sports (:soccer: :football: :basketball: :tennis: :cricket_game:)
+- ⚡ Fun fact: I am interested in Sports (:soccer: :football: :basketball: :tennis: :cricket_game: :badminton: :ice_skate:)
 
 <!--
 **mahfuz05062/mahfuz05062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
