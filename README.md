@@ -1,8 +1,9 @@
 ### Hi there, This is Mahfuz! 👋
 - I am a Computer Science PhD candiate with research in applied data science and bioinformatics
-- :computer: I am proficient in Python, R, Matlab, and C/C++
-- :computer: I have working knowledge in SQL and Java
-- 📫 Email me: rahma118@umn.edu or connent in [Linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
+- :computer: I am proficient in Python, R, Matlab, and C/C++ and familiarity in SQL and Java
+- :computer: I am proficient in Python, R, Matlab, and C/C++ and familiarity in SQL and Java
+- :🌱 I am currently learning Spark and Docker
+- 📫 Reach me by Email: rahma118@umn.edu or [Linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 
 <!--
 **mahfuz05062/mahfuz05062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
