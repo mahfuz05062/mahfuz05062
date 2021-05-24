@@ -2,7 +2,7 @@
 I am a Computer Science PhD candiate with research in applied data science / machine learning and bioinformatics
 - :computer: I am proficient in Python, R, Matlab, and C/C++ and familiar in SQL and Java
 - :computer: I am skilled in the application of diverse machine learning approaches to data (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
-- 🌱 Currently learning Spark and Docker | applying NLP techniques to news misinformation detection
+- 🌱 Currently learning Apache Spark, Airflow, and Docker | applying NLP techniques to news misinformation detection
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
 - 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 - 😄 Pronouns: he/him
