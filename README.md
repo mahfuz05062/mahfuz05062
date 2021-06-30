@@ -1,6 +1,6 @@
 ### Hi there, This is Mahfuz! 👋
 I am a Computer Science PhD candiate with research in applied data science / machine learning and bioinformatics
-- :computer: I use Python, R, and Matlab frequently. (Others: C/C++, Java, SQL).
+- :computer: I use Python, R, and Matlab frequently. (Others: C/C++, Java, SQL, shell scripting).
 - :computer: I am skilled in the application of diverse machine learning approaches to data (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
 - 🌱 Currently learning Apache Spark, Airflow, and Docker | applying NLP techniques to news misinformation detection
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
