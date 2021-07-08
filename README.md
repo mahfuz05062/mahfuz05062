@@ -2,8 +2,8 @@
 I am a Computer Science PhD candiate with research in applied data science / machine learning and bioinformatics
 - :computer: I use Python, R, and Matlab frequently. (Others: C/C++, Java, SQL, shell scripting).
 - :computer: I am skilled in the application of diverse machine learning approaches to data (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
+- 🔭 Currently writing a manuscript on reproducibility of experiments using MCMC
 - 🌱 Currently learning Apache Spark, Airflow, and Docker
-- 🔭 I’m currently writing a manuscript on reproducibility of experiments using MCMC
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
 - 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 - 😄 Pronouns: he/him
