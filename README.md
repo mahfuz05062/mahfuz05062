@@ -7,8 +7,7 @@ I am a Computer Science PhD candiate with research in applied data science / mac
 - 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
 - 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact
-  - sports fan (:soccer: :football: :basketball: :tennis:); gardening (:leafy_green:)
+- ⚡ Fun fact: sports fan (:soccer: :football: :basketball: :tennis:); gardening (:leafy_green:)
 
 <!--
 **mahfuz05062/mahfuz05062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
