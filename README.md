@@ -1,5 +1,5 @@
 ### Hi there, This is Mahfuz! 👋
-I am a Computer Science PhD candiate with research in applied data science / machine learning and bioinformatics
+I am a Computer Science PhD with experience in applied data science / machine learning and bioinformatics. I am currently working as a Sr Software Engineer, Machine Learning Platform, for Lowe's!
 - :computer: I use Python, R, and Matlab frequently. (Others: C/C++, Java, SQL, shell scripting).
 - :computer: I am skilled in the application of diverse machine learning approaches to data (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
 - 🔭 Currently writing a manuscript on reproducibility of experiments using MCMC
