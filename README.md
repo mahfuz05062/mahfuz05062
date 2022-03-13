@@ -1,10 +1,10 @@
 ### Hi there, This is Mahfuz! 👋
-I am a Computer Science PhD with experience in applied data science / machine learning and bioinformatics. I am currently working as a Sr Software Engineer, Machine Learning Platform, for Lowe's!
+I am currently working as a Senior Software/ML Engineer at Lowe's! I have a PhD in Computer Science (with a focus in applied data science in Computational Biology). 
 - :computer: I use Python, R, and Matlab frequently. (Others: C/C++, Java, SQL, shell scripting).
-- :computer: I am skilled in the application of diverse machine learning approaches to data (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
-- 🔭 Currently writing a manuscript on reproducibility of experiments using MCMC
+- :computer: I am skilled in the application of diverse machine learning approaches and MLOps (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
+- 🔭 Currently building a Feature Store (using Feast) and a ML model monitoring system.
 - 🌱 Currently studying Distributed Systems and Hadoop ecosystem
-- 💬 Ask me about: Data Science, Machine learning, Bioinformatics, Programming 
+- 💬 Ask me about: MLOps, Machine learning, Data Science, Bioinformatics, Programming 
 - 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sports fan (:soccer: :football: :basketball: :tennis:); gardening (:leafy_green: :hot_pepper: :tomato:)
