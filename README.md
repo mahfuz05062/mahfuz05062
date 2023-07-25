@@ -1,10 +1,10 @@
 ### Hi there, This is Mahfuz! 👋
-I am currently working as a Senior ML Engineer at Lowe's! I have a PhD in Computer Science (with a focus in applied data science and ML). 
+I am currently working as a Senior ML Engineer at Lowe's! I have a Ph.D. in Computer Science (with a focus on applied ML in computational biology). 
 - :computer: I am proficient in Python, R, and Matlab. (Intermediate: C++, Java).
-- :computer: I am skilled in applied machine learning / data science and MLOps (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
-- 🔭 Currently building a distributed ML taining platform (using kubeflow) and a explainable AI as a service for Lowes. Previously developed a part of Lowe's Feature Store (using Presto & HIVE) and designed and developed a ML monitoring solution for Lowes.
-- 🌱 Studying on on Distributed Software and ML system design.
-- 💬 Ask me about: MLOps, Machine learning & Data Science, Software Engineering, Computational Biology
+- :computer: I am skilled in applied machine learning/data science and MLOps (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
+- 🔭 Currently building a distributed ML training platform (using Kubeflow) and an explainable AI as a service for Lowes. Previously developed a part of Lowe's Feature Store (using Presto & HIVE) and designed and developed an ML monitoring solution for Lowes.
+- 🌱 Studying Distributed Software and ML system design.
+- 💬 Ask me about MLOps, Machine learning, Data Science, Software Engineering, and Computational Biology
 - 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sports fan (:soccer: :football: :basketball: :tennis:); gardening (:leafy_green: :hot_pepper: :tomato:)
