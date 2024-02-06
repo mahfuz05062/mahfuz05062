@@ -3,7 +3,7 @@ I am currently working as a Senior ML Engineer at Lowe's! I have a Ph.D. in Comp
 - :computer: I am proficient in Python, R, and Matlab. (Intermediate: C++, Java).
 - :computer: I am skilled in applied machine learning/data science and MLOps (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
 - 🔭 Currently working on LLM-based solutions. Previously developed components of Lowe's ML(Ops) Platform.
-- 🌱 Volunteering as an editor for [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/)
+- 🌱 Volunteering as an editor for [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
 - 💬 Ask me about MLOps, Machine learning, Software Engineering, and Computational Biology
 - 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 - 😄 Pronouns: he/him
