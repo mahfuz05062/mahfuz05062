@@ -7,7 +7,7 @@ I am currently working as a Senior ML Engineer at Lowe's! I have a Ph.D. in Comp
 - 💬 Ask me about MLOps, Machine learning, Software Engineering, and Computational Biology
 - 📫 Reach me at rahma118@umn.edu or through [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: avid squash and soccer player; sports fan; gardening
+- ⚡ Fun fact: I like playing squash and soccer, following sports (NFL, European Soccer, NBA), cooking, and gardening.
 
 <!--
 **mahfuz05062/mahfuz05062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
