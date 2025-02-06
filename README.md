@@ -1,5 +1,5 @@
 ### Hi there, This is Mahfuz! 👋
-I am currently working as a Senior ML Engineer at Lowe's! I have a Ph.D. in Computer Science (Applied ML in Computational Biology). 
+I am currently working as an ML Engineer at Meta! I have a Ph.D. in Computer Science (Applied ML in Computational Biology). 
 - :computer: I am proficient in Python, R, and Matlab. (Intermediate: C++, Java).
 - :computer: I am skilled in applied machine learning, software engineering, and MLOps (visit my [linkedin](https://www.linkedin.com/in/mahfuzur-rahman-ahm/) for more information).
 - 🔭 Currently working on LLM-based solutions. Previously developed components of Lowe's ML(Ops) Platform.
